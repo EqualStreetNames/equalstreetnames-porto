@@ -60,7 +60,9 @@ name,source,gender,wikidata,type
 "Praça de Francisco Sá Carneiro",wikidata,?,Q10353457;Q367010;Q367010,way
 "Praça Dona Filipa de Lencastre",wikidata,F,Q236911,way
 "Rua Cecília Meireles",wikidata,F,Q2607615,way
+"Rua Helena Sá e Costa",wikidata,F,Q10294470,way
 "Rua Ilse Losa",wikidata,F,Q1659168,way
+"Rua de Felicidade Browne",wikidata,F,Q107127786,way
 "Rua de Guilhermina Suggia",wikidata,F,Q259861,way
 "Rua de Santa Catarina",wikidata,F,Q179718,way
 "Rua de Santa Helena",wikidata,F,Q170164,way
@@ -93,6 +95,8 @@ name,source,gender,wikidata,type
 "Rua Aires de Ornelas",wikidata,M,Q9593108,way
 "Rua António Enes",wikidata,M,Q2857751,way
 "Rua Augusto Luso",wikidata,M,Q9637757,way
+"Rua Aurélio da Paz dos Reis",wikidata,M,Q777539,way
+"Rua Avelar Brotero",wikidata,M,Q1032088,way
 "Rua Cantor Zeca Afonso",wikidata,M,Q559269,way
 "Rua Diogo Brandão",wikidata,M,Q48876902,way
 "Rua Diogo do Couto",wikidata,M,Q1137118,way
@@ -101,6 +105,7 @@ name,source,gender,wikidata,type
 "Rua Engenheiro Ferreira Dias",wikidata,M,Q10281659,way
 "Rua Fernando de Bulhões",wikidata,M,Q167477,way
 "Rua Francisco da Rocha Soares",wikidata,M,Q10285275,way
+"Rua Guerra Junqueiro",wikidata,M,Q336918,way
 "Rua Luís de Camões",wikidata,M,Q590,way
 "Rua Pêro de Alenquer",wikidata,M,Q1668016,way
 "Rua Sacadura Cabral",wikidata,M,Q3121506,way
@@ -110,27 +115,35 @@ name,source,gender,wikidata,type
 "Rua de Álvares Cabral",wikidata,M,Q174432,way
 "Rua de Alves Redol",wikidata,M,Q448851,way
 "Rua de Antero de Quental",wikidata,M,Q467494,way
+"Rua de António Nobre",wikidata,M,Q611238,way
+"Rua de Avelar Brotero",wikidata,M,Q1032088,way
 "Rua de Barbosa du Bocage",wikidata,M,Q630116,way
 "Rua de Bartolomeu Dias",wikidata,M,Q130377,way
 "Rua de Bernardim Ribeiro",wikidata,M,Q822857,way
 "Rua de Calouste Gulbenkian",wikidata,M,Q345538,way
 "Rua de Camões",wikidata,M,Q590,way
 "Rua de Cândido dos Reis",wikidata,M,Q7675563,way
+"Rua de Cassiano Branco",wikidata,M,Q517971,way
 "Rua de Cervantes",wikidata,M,Q5682,way
 "Rua de Ciríaco Cardoso",wikidata,M,Q32164413,way
 "Rua de Costa Cabral",wikidata,M,Q130870,way
 "Rua de Damião de Góis",wikidata,M,Q567913,way
+"Rua de Dom João IV",wikidata,M,Q1060796,way
 "Rua de Dom João Peculiar",wikidata,M,Q64761395,way
 "Rua de Dom Manuel II",wikidata,M,Q154308,way
 "Rua de Egas Moniz",wikidata,M,Q273219,way
+"Rua de Feliciano de Castilho",wikidata,M,Q2624029,way
 "Rua de Fernandes Tomás",wikidata,M,Q1891502,way
 "Rua de Gil Vicente",wikidata,M,Q360383,way
+"Rua de Guilherme Braga",wikidata,M,Q1553827,way
 "Rua de João Pedro Ribeiro",wikidata,M,Q10312032,way
 "Rua de João das Regras",wikidata,M,Q6298448,way
 "Rua de Jorge Viterbo Ferreira",wikidata,M,Q23060671,way
+"Rua de Júlio Brandão",wikidata,M,Q10313383,way
 "Rua de Júlio Dinis",wikidata,M,Q980339,way
 "Rua de Latino Coelho",wikidata,M,Q5971514,way
 "Rua de Manuel Pinto de Azevedo",wikidata,M,Q10324438,way
+"Rua de Mário Bonito",wikidata,M,Q10334385,way
 "Rua de Martim Moniz",wikidata,M,Q3028496,way
 "Rua de Miguel Bombarda",wikidata,M,Q952551,way
 "Rua de Mouzinho da Silveira",wikidata,M,Q1532667,way
@@ -144,6 +157,8 @@ name,source,gender,wikidata,type
 "Rua de São Roque da Lameira",wikidata,M,Q152457,way
 "Rua de Saraiva de Carvalho",wikidata,M,Q16495285,way
 "Rua de Serpa Pinto",wikidata,M,Q921705,way
+"Rua de Soares de Passos",wikidata,M,Q2296345,way
+"Rua do Abade Correia da Serra",wikidata,M,Q2656605,way
 "Rua do Abade de Baçal",wikidata,M,Q7601256,way
 "Rua do Alferes Malheiro",wikidata,M,Q10363707,way
 "Rua do Barão de Nova Sintra",wikidata,M,Q10309657,way

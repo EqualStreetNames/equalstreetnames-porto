@@ -270,6 +270,7 @@ Metrobus,,,,way
 "Passagem Inferior Pedonal - Norte",,,,way
 "Passagem Inferior Pedonal - Sul",,,,way
 "Passagem Superior",,,,way
+"Passeio Castelo do Queijo",,,,way
 "Passeio Manoel de Oliveira",,,,way
 "Passeio da Levada",,,,way
 "Passeio das Fontaínhas",,,,way
@@ -448,8 +449,6 @@ Ribeira,,,,relation
 "Rua Artur de Sousa",,,,way
 "Rua Ateneu Comercial do Porto",,,,way
 "Rua Aurélia de Sousa",,,,way
-"Rua Aurélio da Paz dos Reis",,,,way
-"Rua Avelar Brotero",,,,way
 "Rua Beato Inácio de Azevedo",,,,way
 "Rua Beija-Flor",,,,way
 "Rua Benjamim Gouveia",,,,way
@@ -575,9 +574,7 @@ Ribeira,,,,relation
 "Rua Gonçalo Nunes de Faria",,,,way
 "Rua Gonçalo Pires Bandeira",,,,way
 "Rua Guedes Pinheiro",,,,way
-"Rua Guerra Junqueiro",,,,way
 "Rua Gustavo de Sousa",,,,way
-"Rua Helena Sá e Costa",,,,way
 "Rua Henrique Alves Costa",,,,way
 "Rua Henrique Medina",,,,way
 "Rua Henrique de Sousa Reis",,,,way
@@ -1030,7 +1027,6 @@ Ribeira,,,,relation
 "Rua de António Carneiro",,,,way
 "Rua de António Galvão",,,,way
 "Rua de António Granjo",,,,way
-"Rua de António Nobre",,,,way
 "Rua de António Patrício",,,,way
 "Rua de António Pedro",,,,way
 "Rua de António Pinto Machado",,,,way
@@ -1052,7 +1048,6 @@ Ribeira,,,,relation
 "Rua de Augusto Rosa",,,,way
 "Rua de Aval de Baixo",,,,way
 "Rua de Aval de Cima",,,,way
-"Rua de Avelar Brotero",,,,way
 "Rua de Avelino Ribeiro",,,,way
 "Rua de Avis",,,,way
 "Rua de Azevedo",,,,way
@@ -1093,7 +1088,6 @@ Ribeira,,,,relation
 "Rua de Carvalho Araújo",,,,way
 "Rua de Carvalho Barbosa",,,,way
 "Rua de Cascais",,,,way
-"Rua de Cassiano Branco",,,,way
 "Rua de Cedofeita",,,,way
 "Rua de César Abbott",,,,way
 "Rua de Chaimite",,,,way
@@ -1132,7 +1126,6 @@ Ribeira,,,,relation
 "Rua de Dom Domingos Pinho Brandão",,,,way
 "Rua de Dom Estêvão da Gama",,,,way
 "Rua de Dom Hugo",,,,way
-"Rua de Dom João IV",,,,way
 "Rua de Dom João de Castro",,,,way
 "Rua de Dom João de Mascarenhas",,,,way
 "Rua de Dom Lopo de Almeida",,,,way
@@ -1158,8 +1151,6 @@ Ribeira,,,,relation
 "Rua de Eugénio de Castro",,,,way
 "Rua de Faria Guimarães",,,,way
 "Rua de Felgueiras",,,,way
-"Rua de Feliciano de Castilho",,,,way
-"Rua de Felicidade Brown",,,,way
 "Rua de Felizardo de Lima",,,,way
 "Rua de Fernando Pessoa",,,,way
 "Rua de Fernando Távora",,,,way
@@ -1194,7 +1185,6 @@ Ribeira,,,,relation
 "Rua de Gondarém",,,,way
 "Rua de Grijó",,,,way
 "Rua de Guedes de Azevedo",,,,way
-"Rua de Guilherme Braga",,,,way
 "Rua de Guilherme da Costa Carvalho",,,,way
 "Rua de Heitor Campos Monteiro",,,,way
 "Rua de Henrique Alegria",,,,way
@@ -1223,7 +1213,6 @@ Ribeira,,,,relation
 "Rua de José da Silva",,,,way
 "Rua de José de Brito",,,,way
 "Rua de José de Carvalho",,,,way
-"Rua de Júlio Brandão",,,,way
 "Rua de Júlio Dantas",,,,way
 "Rua de Júlio Ramos",,,,way
 "Rua de Júlio de Brito",,,,way
@@ -1243,7 +1232,6 @@ Ribeira,,,,relation
 "Rua de Marco de Canaveses",,,,way
 "Rua de Maria Lamas",,,,way
 "Rua de Maria Pia",,,,way
-"Rua de Mário Bonito",,,,way
 "Rua de Marques Marinho",,,,way
 "Rua de Marques de Oliveira",,,,way
 "Rua de Marracuene",,,,way
@@ -1376,7 +1364,6 @@ Ribeira,,,,relation
 "Rua de Silva Pereira",,,,way
 "Rua de Silva Porto",,,,way
 "Rua de Silva Tapada",,,,way
-"Rua de Soares de Passos",,,,way
 "Rua de Sobre-o-Douro",,,,way
 "Rua de Sobreiras",,,,way
 "Rua de Soeiro Mendes",,,,way
@@ -1413,7 +1400,6 @@ Ribeira,,,,relation
 "Rua de Vimioso",,,,way
 "Rua de Virgínia de Moura",,,,way
 "Rua de Vitorino Damásio",,,,way
-"Rua do Abade Correia da Serra",,,,way
 "Rua do Abade de Faria",,,,way
 "Rua do Actor Eduardo Brazão",,,,way
 "Rua do Actor Ferreira da Silva",,,,way
