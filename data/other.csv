@@ -188,7 +188,6 @@ Ilha,,,,way
 "Largo da Fontinha",,,,way
 "Largo da Igreja",,,,way
 "Largo da Igreja de Paranhos",,,,way
-"Largo da Lada",,,,way
 "Largo da Lapa",,,,way
 "Largo da Maceda",,,,way
 "Largo da Marquesa",,,,way
@@ -253,6 +252,7 @@ Ilha,,,,way
 "Largo dos Arcos da Ribeira",,,,way
 "Largo dos Cisnes",,,,way
 "Largo dos Lóios",,,,relation+way
+"Largo s/nome",,,,way
 Levada,,,,relation
 "Meia Laranja",,,,way
 Metrobus,,,,way
@@ -298,7 +298,6 @@ Metrobus,,,,way
 "Praça da Ilha Brava",,,,way
 "Praça da Liberdade",,,,relation+way
 "Praça da Pedra Verde",,,,way
-"Praça da Rainha Dona Amélia",,,,way
 "Praça da República",,,,way
 "Praça da Ribeira",,,,relation+way
 "Praça das Cardosas",,,,way
@@ -357,7 +356,6 @@ Metrobus,,,,way
 "Ramal de Alfândega",,,,way
 Ribeira,,,,relation
 "Ribeira de Aldoar",,,,way
-"Roa Dom Jerónimo de Azevedo",,,,way
 "Rotunda Acácio da Silva Gomes",,,,way
 "Rotunda Artur Cupertino de Miranda",,,,way
 "Rotunda Hugo Rocha",,,,way
@@ -396,7 +394,6 @@ Ribeira,,,,relation
 "Rua Agostinho José Freire",,,,way
 "Rua Agostinho Ricca",,,,way
 "Rua Agra do Amial",,,,way
-"Rua Agustina Bessa Luís",,,,way
 "Rua Airosa",,,,way
 "Rua Albano Martins",,,,way
 "Rua Albertina de Sousa Paraíso",,,,way
@@ -433,7 +430,6 @@ Ribeira,,,,relation
 "Rua António Manuel Couto Viana - Rua 14",,,,way
 "Rua António Maria de Sena",,,,way
 "Rua António Pinheiro Caldas",,,,way
-"Rua António Rebordão Navarro",,,,way
 "Rua António Ricca Gonçalves",,,,way
 "Rua António Rocha Melo",,,,way
 "Rua António Saldanha",,,,way
@@ -448,7 +444,6 @@ Ribeira,,,,relation
 "Rua Artur Oliveira Valença",,,,way
 "Rua Artur de Sousa",,,,way
 "Rua Ateneu Comercial do Porto",,,,way
-"Rua Aurélia de Sousa",,,,way
 "Rua Beato Inácio de Azevedo",,,,way
 "Rua Beija-Flor",,,,way
 "Rua Benjamim Gouveia",,,,way
@@ -495,14 +490,12 @@ Ribeira,,,,relation
 "Rua Dom António Ferreira Gomes",,,,way
 "Rua Dom Francisco de Almeida",,,,way
 "Rua Dom Frei Vicente da Soledade e Castro",,,,way
-"Rua Dom Jerónimo de Azevedo",,,,way
 "Rua Dom João Coutinho",,,,way
 "Rua Dom João de Azevedo",,,,way
 "Rua Dom João de Mascarenhas",,,,way
 "Rua Dom Nicolau Monteiro",,,,way
 "Rua Dom Nun'Álvares Pereira",,,,way
 "Rua Dom Sebastião de Resende",,,,way
-"Rua Domingos Sequeira",,,,way
 "Rua Dominguez Alvarez",,,,way
 "Rua Dona Antónia Adelaide Ferreira",,,,way
 "Rua Dona Maria Borges",,,,way
@@ -550,26 +543,21 @@ Ribeira,,,,relation
 "Rua Escura",,,,way
 "Rua Estreita dos Lóios",,,,way
 "Rua Estrela e Vigorosa Sport",,,,way
-"Rua Eugénio de Andrade",,,,way
 "Rua Fernandes Costa",,,,way
 "Rua Fernando Cabral",,,,way
 "Rua Fernando Lanhas",,,,way
 "Rua Fernando Mendonça",,,,way
 "Rua Fernando Moreira da Silva",,,,way
 "Rua Fernão Lopes",,,,way
-"Rua Ferreira de Castro",,,,way
 "Rua Ferreira dos Santos",,,,way
 "Rua Ferrer Loureiro",,,,way
 "Rua Firmino Pereira",,,,way
-"Rua Florbela Espanca",,,,way
 "Rua Formosa",,,,way
 "Rua Francisco de Sena Esteves",,,,way
 "Rua François Guichard",,,,way
 "Rua Frederico Martins Mendes",,,,way
 "Rua Frei Avelino Amarante",,,,way
 "Rua Frei Bernardo Domingues",,,,way
-"Rua General Norton de Matos",,,,way
-"Rua Gisberta Salce Júnior",,,,way
 "Rua Gomes Eanes de Azurara",,,,way
 "Rua Gonçalo Nunes de Faria",,,,way
 "Rua Gonçalo Pires Bandeira",,,,way
@@ -606,13 +594,10 @@ Ribeira,,,,relation
 "Rua John Whitehead",,,,way
 "Rua Jorge Gigante",,,,way
 "Rua Jorge Rainel",,,,way
-"Rua Jorge de Sena",,,,way
 "Rua José Augusto de Castro",,,,way
 "Rua José Cardoso da Silva",,,,way
 "Rua José Fontes Rocha",,,,way
-"Rua José Mário Branco",,,,way
 "Rua José Monteiro da Costa",,,,way
-"Rua José Régio",,,,way
 "Rua José Saraiva",,,,way
 "Rua José Saramago",,,,way
 "Rua José Teixeira Barreto",,,,way
@@ -628,9 +613,7 @@ Ribeira,,,,relation
 "Rua Luís Neves Real",,,,way
 "Rua Luís Veiga",,,,way
 "Rua Luís de Aguiar",,,,way
-"Rua Luísa Dacosta",,,,way
 "Rua Maestro Virgílio Pereira",,,,way
-"Rua Manuel António Pina",,,,way
 "Rua Manuel Lopes Martins",,,,way
 "Rua Manuel Nunes",,,,way
 "Rua Manuel Pacheco de Miranda",,,,way
@@ -740,7 +723,6 @@ Ribeira,,,,relation
 "Rua Teodoro de Sousa Maldonado",,,,way
 "Rua Teófilo Seyrig",,,,way
 "Rua Trindade Coelho",,,,way
-"Rua Vasco Graça Moura",,,,way
 "Rua Vieira da Silva",,,,way
 "Rua Virgínia Leite de Sousa",,,,way
 "Rua Visconde de Setúbal",,,,way
@@ -840,7 +822,7 @@ Ribeira,,,,relation
 "Rua da Ilha Verde",,,,way
 "Rua da Índia",,,,way
 "Rua da Infanta Dona Maria",,,,way
-"Rua da Lada",,,,way
+"Rua da Lada",,,,relation+way
 "Rua da Laje",,,,way
 "Rua da Lameira de Baixo",,,,way
 "Rua da Lameira de Cima",,,,way
@@ -1017,7 +999,6 @@ Ribeira,,,,relation
 "Rua de Ângelo Frondoni",,,,way
 "Rua de Angola",,,,way
 "Rua de Aníbal Cunha",,,,way
-"Rua de Anselmo Braamcamp",,,,way
 "Rua de Antero Antunes Albuquerque",,,,way
 "Rua de Antero de Araújo",,,,way
 "Rua de António Aroso",,,,way
@@ -1082,7 +1063,6 @@ Ribeira,,,,relation
 "Rua de Candemil",,,,way
 "Rua de Cândida Sá de Albergaria",,,,way
 "Rua de Carlos Dubini",,,,way
-"Rua de Carlos Malheiro Dias",,,,way
 "Rua de Carlos da Maia",,,,way
 "Rua de Carnide",,,,way
 "Rua de Carvalho Araújo",,,,way
@@ -1115,7 +1095,6 @@ Ribeira,,,,relation
 "Rua de Delfim Maia",,,,way
 "Rua de Diogo Afonso",,,,way
 "Rua de Diogo Botelho",,,,way
-"Rua de Diogo Cão",,,,way
 "Rua de Diogo Macedo",,,,way
 "Rua de Diogo de Noronha",,,,way
 "Rua de Dionísio Santos Silva",,,,way
@@ -1163,7 +1142,6 @@ Ribeira,,,,relation
 "Rua de Fonseca Cardoso",,,,way
 "Rua de Francisco Barreto",,,,way
 "Rua de Francisco Carqueja",,,,way
-"Rua de Francisco Sanches",,,,way
 "Rua de Francos",,,,way
 "Rua de Frederico Ozanam",,,,way
 "Rua de Frei Heitor Pinto",,,,way
@@ -1391,7 +1369,6 @@ Ribeira,,,,relation
 "Rua de Viana da Mota",,,,way
 "Rua de Viana de Lima",,,,way
 "Rua de Vidago",,,,way
-"Rua de Vieira Portuense",,,,way
 "Rua de Vila Cova",,,,way
 "Rua de Vila Nova",,,,way
 "Rua de Vila Nova de Foz Côa",,,,way
@@ -1507,7 +1484,6 @@ Ribeira,,,,relation
 "Rua do Doutor Henrique de Miranda",,,,way
 "Rua do Doutor Jacinto Nunes",,,,way
 "Rua do Doutor Joaquim Costa",,,,way
-"Rua do Doutor Joaquim Pires de Lima",,,,way
 "Rua do Doutor José António Marques",,,,way
 "Rua do Doutor José Marques",,,,way
 "Rua do Doutor José de Figueiredo",,,,way
@@ -1834,7 +1810,6 @@ Ribeira,,,,relation
 "Travessa das Taipas",,,,way
 "Travessa de Alferes Malheiro",,,,way
 "Travessa de Álvaro de Castelões",,,,way
-"Travessa de Anselmo Braancamp",,,,way
 "Travessa de Azevedo",,,,way
 "Travessa de Baixo de Pereiró",,,,way
 "Travessa de Bonjóia",,,,way
